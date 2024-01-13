@@ -1,0 +1,10 @@
+Jan 13, 2024 11:36:06 PM Server main
+INFO: Server listening on port 12345
+Jan 13, 2024 11:36:30 PM Server main
+INFO: Accepted connection from /127.0.0.1
+Jan 13, 2024 11:36:30 PM Server handleClient
+INFO: Data received from client: Hello from client!
+Jan 13, 2024 11:36:30 PM Server handleClient
+INFO: Response sent to client: Hello from server!
+Jan 13, 2024 11:36:30 PM Server handleClient
+INFO: Connection with client closed

@@ -1,0 +1,8 @@
+Jan 13, 2024 11:36:30 PM Client main
+INFO: Connected to server at 127.0.0.1:12345
+Jan 13, 2024 11:36:30 PM Client main
+INFO: Data sent to server: Hello from client!
+Jan 13, 2024 11:36:30 PM Client main
+INFO: Response from server: Hello from server!
+Jan 13, 2024 11:36:30 PM Client main
+INFO: Connection with server closed
